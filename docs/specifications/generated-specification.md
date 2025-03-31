@@ -1,1 +1,1 @@
-This is where the generated specification would be
+Spec goes here, this is a placeholder
